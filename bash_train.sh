@@ -1,0 +1,7 @@
+python main_cly.py --config_path "configs/train_cly.yml"
+python main.py --config_path "configs/train_UNet.yml"
+python main.py --config_path "configs/train_UNet2P.yml"
+python main.py --config_path "configs/train_ResUNet.yml"
+python main.py --config_path "configs/train_ATTUNet.yml"
+python main.py --config_path "configs/train_ConvUNeXt.yml"
+python main.py --config_path "configs/train_FSGNet.yml"

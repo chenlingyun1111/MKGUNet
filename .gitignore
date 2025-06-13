@@ -1,0 +1,13 @@
+wandb/
+model_checkpoints/
+pretrained/
+.idea/
+.vscode/
+
+temp.py
+git-token
+
+*.pt
+*.pyc
+
+**/__pycache__/**
